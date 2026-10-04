@@ -12,7 +12,7 @@ specifiers:
   eslint-plugin-react-refresh: ^0.4.1
   react: ^16.14.0
   react-dom: ^16.14.0
-  react-freedom: ^0.0.3
+  react-freedom: ^0.2.0
   react-test-renderer: ^17.0.2
   typescript: ^5.0.2
   vite: ^4.4.0
@@ -21,7 +21,7 @@ specifiers:
 dependencies:
   react: 16.14.0
   react-dom: 16.14.0_react@16.14.0
-  react-freedom: 0.0.3_wcqkhtmu7mswc6yz4uyexck3ty
+  react-freedom: 0.2.1_wcqkhtmu7mswc6yz4uyexck3ty
 
 devDependencies:
   '@types/react': 18.2.15
@@ -1734,8 +1734,8 @@ packages:
       scheduler: 0.19.1
     dev: false
 
-  /react-freedom/0.0.3_wcqkhtmu7mswc6yz4uyexck3ty:
-    resolution: {integrity: sha512-nW3md5X1WX8xq15aX4lFKbt8ZrZX1UIgVrU3AZc0PrO0chq190BQH0up+ilkb4bXHAT4pUhuONjsEN7qibexTQ==}
+  /react-freedom/0.2.1_wcqkhtmu7mswc6yz4uyexck3ty:
+    resolution: {integrity: sha512-i76KZivT9srw1oaYxqOQxevfIPKnQez6UA5fXqplozIn8Vu1o+EYeoLWugtEuRNV3YQ50BKsTPAKVl9vWkisbg==}
     peerDependencies:
       react: ^16 || ^17 || ^18
       react-dom: ^16 || ^17 || ^18
